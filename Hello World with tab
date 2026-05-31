@@ -1,0 +1,31 @@
+Write a program to print Hello World with tab
+
+Input Format
+
+NA
+
+Constraints
+
+NA
+
+Output Format
+
+The output prints the string.
+
+Sample Output 0
+
+Hello World    Hello World
+
+-------------------------------------------------------------------------------------
+
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+    printf("Hello World"); 
+    printf("\tHello World");
+    return 0;
+}
